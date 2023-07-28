@@ -18,4 +18,10 @@ Raw data, notebooks and plots accompanying the article ``*Does Reflective Equili
       - 100 sets of initial commitments per structure
       - 276 configuration of weights
       - Total number of simulation setups: 276000
-- **plots**: Various figures resulting from the analysis of simulation results.
+- **[plots](plots)**: Various figures resulting from the analysis of simulation results.
+- **Notebooks**
+  - [convergence_data_generation.ipynb](convergence_data_generation.ipynb): setting up and running simulations with modules `tau` and `rethon`
+  - [convergence_data_preprocessing.ipynb](convergence_data_preprocessing.ipynb): preprocessing raw data by additional calculations for compatibility and similarity
+  - [two_point_convergence_exploration.ipynb](two_point_convergence_exploration.ipynb): analysing the two-point ensemble (unique outputs, compatibility, similarity) and creating plots
+  - [full_spectrum_exploration.ipynb](full_spectrum_exploration.ipynb): analysing the full-spectrum ensemble ("anything goes") and creating plots
+  - [weightings_selection.ipynb](weightings_selection.ipynb): selecting promising weight configuration for simulations and creating plots
