@@ -1,5 +1,5 @@
 # reconvergence
-Raw data and notebooks accompanying the article ``*Does Reflective Equilibrium Help Us Converge?*''
+Raw data, notebooks and plots accompanying the article ``*Does Reflective Equilibrium Help Us Converge?*''
 
 ## Contents
 - **[data](data)**
